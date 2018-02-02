@@ -1,0 +1,25 @@
+# IntelliJ project files
+.idea
+*.iml
+out
+
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Directories
+target/
+allure-results/
